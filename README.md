@@ -1,4 +1,6 @@
-# Computational-Literacy-WCH
+# Computational Literacy Final Project, 2024
+
+## Themes in the Working Class History
 
 
 ## Introduction
