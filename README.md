@@ -56,7 +56,7 @@ I plotted multiple keywords in one chart to see if they might reveal any interes
 
 In order to obtain an understanding on the main themes in the Working Class History project, the top 30 salient terms for each the 15 topics were examined based on the original text and the historical context. 
 
-![topic visualization]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/mengdii/Computational-Literacy-WCH/blob/main/topics%20visualization.png)?raw=true)
+![topic visualization](https://github.com/mengdii/Computational-Literacy-WCH/blob/main/topics%20visualization.png?raw=true)
 
 I tried to come up with their categories, however, due to the limitation of my subjective interpretation, the overlaps between topics and the mixed topics, some of the categories might be vague, broad or biased at this point. In this section, I mainly discuss the prominent topics and the topics that reveal unexpected or interesting perspectives.
 
@@ -90,7 +90,7 @@ While the topic modeling results provide a snapshot of the WCH corpus across top
 
 I plotted the frequencies of “women”, “students”, “miners” and “black” on the same graph, because they are groups who had been submerged previously and minorities who have made specific contributions to the history. Their fluctuations over time might be relevant to specific time periods and historical events, but we shouldn’t assume any specific causal relationships or correlations between these lines.
 
-![keyword frequency over time]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/mengdii/Computational-Literacy-WCH/blob/main/keyword%20frequency%20over%20time.png)?raw=true)
+![keyword frequency over time](https://github.com/mengdii/Computational-Literacy-WCH/blob/main/keyword%20frequency%20over%20time.png?raw=true)
  
 The spike in “women” during 1960s - 1980s is a probable reflection of the second wave of Feminism. The spike in “students” in the 1960s could be related to the student movements. A close reading on the events from these period proved the relevancy. 
 
