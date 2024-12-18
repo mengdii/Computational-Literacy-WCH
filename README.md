@@ -56,9 +56,12 @@ I plotted multiple keywords in one chart to see if they might reveal any interes
 
 In order to obtain an understanding on the main themes in the Working Class History project, the top 30 salient terms for each the 15 topics were examined based on the original text and the historical context. 
 
-I tried to come up with their categories (listed in Table 1), however, due to the limitation of my subjective interpretation, the overlaps between topics and the mixed topics, some of the categories might be vague, broad or biased at this point. In this section, I mainly discuss the prominent topics and the topics that reveal unexpected or interesting perspectives.
+![topic visualization]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/mengdii/Computational-Literacy-WCH/blob/main/topics%20visualization.png)?raw=true)
+
+I tried to come up with their categories, however, due to the limitation of my subjective interpretation, the overlaps between topics and the mixed topics, some of the categories might be vague, broad or biased at this point. In this section, I mainly discuss the prominent topics and the topics that reveal unexpected or interesting perspectives.
 
 Topic 8 is the most prominent topic followed by Topic 2 and Topic 1. The top 30 relevant terms for Topic 8 take up 13.1% of tokens, and “women”, “Black”, “miners”, “students” appear within the top 10. The main theme of Topic 8 could be associated with minorities.
+
 “Women” stands out persistently in almost all the topics, reflecting the WCH project’s emphasis on women’s agency and contributions in the movements or presence in the events at the very least.
 
 Besides Topic 8, “Black”, “students”, “miners” are frequently seen in many topics, which could reflect how minorities or communities that had been subordinate and oppressed responded to the social issues as active participants. To see the context of these terms and get an idea about their roles in these events, I used the collocation analysis function in Voyant and referred to the original text. 
@@ -86,6 +89,8 @@ From the results, the prominent topics for each of these time ranges appear to b
 While the topic modeling results provide a snapshot of the WCH corpus across topics, I’m curious to dive into certain key concepts and see how they have changed over time and what they reflect about the socio-historical context.
 
 I plotted the frequencies of “women”, “students”, “miners” and “black” on the same graph, because they are groups who had been submerged previously and minorities who have made specific contributions to the history. Their fluctuations over time might be relevant to specific time periods and historical events, but we shouldn’t assume any specific causal relationships or correlations between these lines.
+
+![keyword frequency over time]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/mengdii/Computational-Literacy-WCH/blob/main/keyword%20frequency%20over%20time.png)?raw=true)
  
 The spike in “women” during 1960s - 1980s is a probable reflection of the second wave of Feminism. The spike in “students” in the 1960s could be related to the student movements. A close reading on the events from these period proved the relevancy. 
 
