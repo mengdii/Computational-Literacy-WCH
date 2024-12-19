@@ -37,7 +37,7 @@ Next, each event was stored in a dictionary or a distinct document for the purpo
 
 Putting the text into Voyant tools to get a general idea, I realized words like “workers / work / working” are so important that they appear too frequently and might overshadow other key concepts. So I added these words in the list of stop words, along with other words that are either too frequent or less meaningful based on our context.
 
-Preprocessing steps included lowercasing, removing numbers and punctuations, and tokenizing.
+Other preprocessing steps included lowercasing, removing numbers and punctuations, and tokenizing.
 
 Then the LDA model in Gensim was used to conduct the topic modeling. Part of the preprocessing and topic modeling process was based on the code from Nan Jiang’s project “An analysis of Finnish milk propaganda” (DOI: 10.5281/zenodo.10419360) with some modifications or adjustments. I put these steps in a function named topics(dataset: str, start_year: int, end_year: int, topic_no: int, output_vis: str), which takes the data file name, year range, number of topics and the visualization file name as its arguments, and returns the lda_model. The year range allows us to focus on specific time frame such as 20th century, or compare different time ranges, such as 1930-1950 vs. 1960-1980.
 
