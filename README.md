@@ -90,7 +90,7 @@ In order to obtain an understanding on the main themes in the Working Class Hist
 
 I tried to come up with labels that potentially describe the themes, however, due to the overlaps between topics, the nature of the events, and the limitation of my subjective interpretation, some of the themes might be vague, broad or biased at this point. In this section, I mainly discuss the prominent topics and the topics that reveal unexpected or interesting perspectives.
 
-A large number of events contain multiple different keywords within a short paragraph due to the real situation of the struggles, which might be one of the factors leading to the mixed topics. For example, in the events below, we can see strike, women, workers, violent, police, pay etc. all at once. 
+A large number of events contain multiple different keywords within a short paragraph due to the real situation of the struggles, which might be one of the factors leading to the mixed topics. For example, in the event below, we can see strike, women, workers, violent, police, pay etc. all at once. 
 
 _January 3, 1913: The Little Falls textile strike in New York ended when the workforce of predominantly migrant women organized in the revolutionary Industrial Workers of the World union (IWW; aka Wobblies) won their demands. They had walked out on October 9, and in the face of violent police repression, the workers held firm and achieved a reduction in weekly working hours from sixty to fifty-four, with no loss of pay._
 
