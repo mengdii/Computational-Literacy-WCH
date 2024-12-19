@@ -100,17 +100,23 @@ Topic 8 is the most prominent topic followed by Topic 2 and Topic 1. The top 30 
 
 Besides Topic 8, “Black”, “students”, “miners” are frequently seen in many topics, which could reflect how minorities or communities that had been subordinate and oppressed responded to the social issues as active participants. To see the context of these terms and get an idea about their potential roles, I used Voyant’s collocation analysis function and referred to the original text. 
 
+![Collocation](https://github.com/mengdii/Computational-Literacy-WCH/blob/61e5724f2fb8999eca28199bbdcb77a61400f81a/collocations.png)
+
 “Organized” being one of the collocates of “women”may indicate that at least in some of the events women are associated with organized actions as oppose to a brief mention. “Including” may imply that women had to be explicitly included because they had been underrepresented or ignored in certain aspects previously. For example, “January 27,1918 Revolution broke out in Finland as workers took over Helsinki, with many of the country’s other large towns following in the next few days. The ‘People’s Republic of Finland’ instituted numerous far-reaching reforms, including women’s suffrage, workers’ control of production, a maximum eight-hour workday, the abolition of the old mode of land distribution, and the emancipation of domestic servants and farmhands.”
 
 In the collocates of “students”, “peacefully” and the context reveals that students tried to protest peacefully, but were prevented and hurt by the authorities. “White” ranks high in the collocates list of “black”, showing the major conflicts and the anti-racist discourse. And for “miners”, terms related to the miners’ family stand out, such as wives, women, and children; “walked” refers to “walked out” on strikes in this context.
 
 Terms associated with Topic 2 are mixed and similar to other topics, but “support” appears within the top 10 terms. If we look at its context in Voyant, we could see many events involve people under oppression helping each other, which could imply solidarity.
 
+![Context for support](https://github.com/mengdii/Computational-Literacy-WCH/blob/61e5724f2fb8999eca28199bbdcb77a61400f81a/support_context.png)
+
 For Topic 1, terms such as “Black”, “white”, “African” and “American” may indicate anti-racist narratives.
 
 Topic 6 has “British” as the most frequent term, along with French, island, colonial, army. Checking the context of “British” and “French”, we could see most events are associated with colonial power. Therefore, this topic can be viewed as mainly about colonialism.
 
 The terms in Topic 9 also lack coherence, but we can see terms like pay, company, and demanding. The term “demanding” felt interesting but vague, so I went back to the original text again. From excerpts such as  “…the strikers, mostly wool workers and rural laborers, were demanding better pay and conditions…”, and “…protests and riots broke out across the country, demanding democratic rights and cultural rights for Amazigh people…”, we could see the agency of people being exploited and their courage fighting against authorities.
+
+![Context for demanding](https://github.com/mengdii/Computational-Literacy-WCH/blob/61e5724f2fb8999eca28199bbdcb77a61400f81a/demanding_context.png)
 
 Overall, terms related to conflicts, violence, exploitation and oppression such as police, troops, arrested, killed, massacre, prison etc. are present in almost all topics. At the same time, from the frequent appearance of strike, protest, movement, union, support etc., we are also empowered by the participation, resistance and solidarity of the working class. 
 
@@ -119,6 +125,8 @@ Next, besides looking at all the topics for the entire time period covered by th
 From the results, the prominent topics for each of these time ranges appear to be different based on the historical context, reflecting how ordinary individuals of the working class have taken actions to social crisis in each historical period. The terms for the prominent topic during 1900s -1930s include miners, pay, industrial, conditions, etc., which are related to miners’ strikes for better working conditions. For 1930s - 1960s, terms in the prominent topic contain nazi, jewish, fascists, which explicitly ties to the anti-fascist theme. The terms associated with the prominent topic for 1960s - 1980s include black, students, women, civil, rights, etc., connecting to minorities’ struggles in the social movements during this period.
 
 The piecharts below illustrate the different topic distributions for the three periods (the piecharts were generated in excel based on percentage of tokens for each topic. The topics with highest percentages are labelled. The salient terms can be found in Appendix).
+
+![Topic distribution in different time ranges](https://github.com/mengdii/Computational-Literacy-WCH/blob/61e5724f2fb8999eca28199bbdcb77a61400f81a/Topics_time%20ranges.png)
 
 
 ### Keyword Frequency Over Time
