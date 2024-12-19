@@ -56,35 +56,35 @@ The code for preprocessing, topic modeling and keyword frequency is in wch_lda_f
 
 In order to obtain an understanding on the main themes in the Working Class History project, the top 30 salient terms for each the 15 topics were examined based on the original text and the historical context. 
 
-1	union, women, black, strike, police, white, sailors, arrested, british, local, american, first, pay, war, group, members, government, despite, african, iww, troops, navy, end, eventually, support, world, killed, attacked, without, city
+1. union, women, black, strike, police, white, sailors, arrested, british, local, american, first, pay, war, group, members, government, despite, african, iww, troops, navy, end, eventually, support, world, killed, attacked, without, city
 
-2	strike, women, police, union, black, government, british, pay, killed, support, white, movement, south, authorities, children, arrested, first, national, company, city, protest, war, attempted, group, increase, members, african, strikers, end, class	
+2. strike, women, police, union, black, government, british, pay, killed, support, white, movement, south, authorities, children, arrested, first, national, company, city, protest, war, attempted, group, increase, members, african, strikers, end, class	
 
-3	strike, women, union, british, police, government, first, prison, world, party, fire, drivers, children, communist, killing, organized, killed, massacre, even, anarchist, troops, mexican, strikers, arrested, subsequently, protest, army, war, black, soldiers 
+3. strike, women, union, british, police, government, first, prison, world, party, fire, drivers, children, communist, killing, organized, killed, massacre, even, anarchist, troops, mexican, strikers, arrested, subsequently, protest, army, war, black, soldiers 
 
-4	strike, police, government, british, city, murdered, attacked, union, london, class, french, death, pay, resistance, war, world, troops, movement, factory, women, civil, members, known, protest, mass, strikers, protests, camp, army, independence	
+4. strike, police, government, british, city, murdered, attacked, union, london, class, french, death, pay, resistance, war, world, troops, movement, factory, women, civil, members, known, protest, mass, strikers, protests, camp, army, independence	
 
-5	police, black, killed, british, white, killing, government, movement, death, shot, land, strike, prison, factory, public, uprising, protest, arrested, time, demanding, officer, ramón, women, massacre, military, students, american, rebellion, trial, occupation
+5. police, black, killed, british, white, killing, government, movement, death, shot, land, strike, prison, factory, public, uprising, protest, arrested, time, demanding, officer, ramón, women, massacre, military, students, american, rebellion, trial, occupation
 
-6	british, women, government, police, french, strike, troops, military, refused, black, island, soldiers, white, colonial, union, murdered, twenty, anarchist, killed, local, army, member, class, states, pay, american, area, forces, shot, arrested
+6. british, women, government, police, french, strike, troops, military, refused, black, island, soldiers, white, colonial, union, murdered, twenty, anarchist, killed, local, army, member, class, states, pay, american, area, forces, shot, arrested
 
-7	police, white, women, rights, black, war, american, government, shot, union, york, city, revolution, world, strike, british, civil, fascists, attacked, class, freedom, known, african, young, fought, national, killed, lincoln, first, organization
+7. police, white, women, rights, black, war, american, government, shot, union, york, city, revolution, world, strike, british, civil, fascists, attacked, class, freedom, known, african, young, fought, national, killed, lincoln, first, organization
 
-8	strike, police, women, government, black, students, killed, miners, pay, union, killing, british, company, forces, attacked, class, military, striking, national, protests, broke, protest, white, despite, fire, massacre, members, african, shot, demanding
+8. strike, police, women, government, black, students, killed, miners, pay, union, killing, british, company, forces, attacked, class, military, striking, national, protests, broke, protest, white, despite, fire, massacre, members, african, shot, demanding
 
-9	strike, women, police, government, pay, black, arrested, union, first, african, white, local, british, south, company, strikers, class, demanding, protest, refused, forced, military, members, power, state, rights, joined, army, american, group
+9. strike, women, police, government, pay, black, arrested, union, first, african, white, local, british, south, company, strikers, class, demanding, protest, refused, forced, military, members, power, state, rights, joined, army, american, group
 
-10	strike, police, women, union, city, arrested, pay, killed, protest, french, strikers, british, government, black, war, troops, prison, movement, york, action, world, state, death, rights, known, agreed, eventually, soldiers, anarchists, free
+10. strike, police, women, union, city, arrested, pay, killed, protest, french, strikers, british, government, black, war, troops, prison, movement, york, action, world, state, death, rights, known, agreed, eventually, soldiers, anarchists, free
 
-11	strike, black, police, white, women, local, hours, union, killed, military, strikers, miners, first, african, coal, government, return, laws, pay, time, students, rights, protest, death, americans, war, civil, rebellion, jailed, murdered
+11. strike, black, police, white, women, local, hours, union, killed, military, strikers, miners, first, african, coal, government, return, laws, pay, time, students, rights, protest, death, americans, war, civil, rebellion, jailed, murdered
 
-12	strike, police, miners, killing, group, fire, troops, women, black, organized, enslaved, students, national, fascist, movement, joined, british, local, government, state, rebellion, armed, executed, fascists, pay, war, support, class, union, previous
+12. strike, police, miners, killing, group, fire, troops, women, black, organized, enslaved, students, national, fascist, movement, joined, british, local, government, state, rebellion, armed, executed, fascists, pay, war, support, class, union, previous
 
-13	police, protest, strike, government, armed, war, students, movement, women, black, city, south, law, uprising, crowd, national, enslaved, troops, killed, british, authorities, local, officers, protesters, forced, high, military, control, end, panthers 
+13. police, protest, strike, government, armed, war, students, movement, women, black, city, south, law, uprising, crowd, national, enslaved, troops, killed, british, authorities, local, officers, protesters, forced, high, military, control, end, panthers 
 
-14	women, strike, union, war, police, world, movement, protest, rebellion, arrested,	japanese, riots, first, black, government, asian, streets, food, struggle, york, england, fbi, prison, country, killed, fire, arrest, class, spread, led
+14. women, strike, union, war, police, world, movement, protest, rebellion, arrested,	japanese, riots, first, black, government, asian, streets, food, struggle, york, england, fbi, prison, country, killed, fire, arrest, class, spread, led
 
-15	strike, police, government, union, group, pay, increase, members, killed, black, attacked, york, authorities, movement, fire, strikers, protest, guillotine, repression, world, continued, public, local, city, students, war, strikes, supporters, party, country
+15. strike, police, government, union, group, pay, increase, members, killed, black, attacked, york, authorities, movement, fire, strikers, protest, guillotine, repression, world, continued, public, local, city, students, war, strikes, supporters, party, country
 
 ![topic visualization](https://github.com/mengdii/Computational-Literacy-WCH/blob/main/topics%20visualization.png?raw=true)
 
@@ -92,7 +92,7 @@ I tried to come up with labels that potentially describe the themes, however, du
 
 A large number of events contain multiple different keywords within a short paragraph due to the real situation of the struggles, which might be one of the factors leading to the mixed topics. For example, in the events below, we can see strike, women, workers, violent, police, pay etc. all at once. 
 
-January 3, 1913: The Little Falls textile strike in New York ended when the workforce of predominantly migrant women organized in the revolutionary Industrial Workers of the World union (IWW; aka Wobblies) won their demands. They had walked out on October 9, and in the face of violent police repression, the workers held firm and achieved a reduction in weekly working hours from sixty to fifty-four, with no loss of pay.
+_January 3, 1913: The Little Falls textile strike in New York ended when the workforce of predominantly migrant women organized in the revolutionary Industrial Workers of the World union (IWW; aka Wobblies) won their demands. They had walked out on October 9, and in the face of violent police repression, the workers held firm and achieved a reduction in weekly working hours from sixty to fifty-four, with no loss of pay._
 
 Topic 8 is the most prominent topic followed by Topic 2 and Topic 1. The top 30 relevant terms for Topic 8 take up 13.1% of tokens, and “women”, “Black”, “miners”, “students” appear in the top 10. The main theme of Topic 8 could be associated with minorities.
 
@@ -102,7 +102,7 @@ Besides Topic 8, “Black”, “students”, “miners” are frequently seen i
 
 ![Collocation](https://github.com/mengdii/Computational-Literacy-WCH/blob/61e5724f2fb8999eca28199bbdcb77a61400f81a/collocations.png)
 
-“Organized” being one of the collocates of “women”may indicate that at least in some of the events women are associated with organized actions as oppose to a brief mention. “Including” may imply that women had to be explicitly included because they had been underrepresented or ignored in certain aspects previously. For example, “January 27,1918 Revolution broke out in Finland as workers took over Helsinki, with many of the country’s other large towns following in the next few days. The ‘People’s Republic of Finland’ instituted numerous far-reaching reforms, including women’s suffrage, workers’ control of production, a maximum eight-hour workday, the abolition of the old mode of land distribution, and the emancipation of domestic servants and farmhands.”
+“Organized” being one of the collocates of “women”may indicate that at least in some of the events women are associated with organized actions as oppose to a brief mention. “Including” may imply that women had to be explicitly included because they had been underrepresented or ignored in certain aspects previously. For example, _“January 27,1918 Revolution broke out in Finland as workers took over Helsinki, with many of the country’s other large towns following in the next few days. The ‘People’s Republic of Finland’ instituted numerous far-reaching reforms, including women’s suffrage, workers’ control of production, a maximum eight-hour workday, the abolition of the old mode of land distribution, and the emancipation of domestic servants and farmhands.”_
 
 In the collocates of “students”, “peacefully” and the context reveals that students tried to protest peacefully, but were prevented and hurt by the authorities. “White” ranks high in the collocates list of “black”, showing the major conflicts and the anti-racist discourse. And for “miners”, terms related to the miners’ family stand out, such as wives, women, and children; “walked” refers to “walked out” on strikes in this context.
 
@@ -114,7 +114,7 @@ For Topic 1, terms such as “Black”, “white”, “African” and “Americ
 
 Topic 6 has “British” as the most frequent term, along with French, island, colonial, army. Checking the context of “British” and “French”, we could see most events are associated with colonial power. Therefore, this topic can be viewed as mainly about colonialism.
 
-The terms in Topic 9 also lack coherence, but we can see terms like pay, company, and demanding. The term “demanding” felt interesting but vague, so I went back to the original text again. From excerpts such as  “…the strikers, mostly wool workers and rural laborers, were demanding better pay and conditions…”, and “…protests and riots broke out across the country, demanding democratic rights and cultural rights for Amazigh people…”, we could see the agency of people being exploited and their courage fighting against authorities.
+The terms in Topic 9 also lack coherence, but we can see terms like pay, company, and demanding. The term “demanding” felt interesting but vague, so I went back to the original text again. From excerpts such as  _“…the strikers, mostly wool workers and rural laborers, were demanding better pay and conditions…”_, and _“…protests and riots broke out across the country, demanding democratic rights and cultural rights for Amazigh people…”_, we could see the agency of people being exploited and their courage fighting against authorities.
 
 ![Context for demanding](https://github.com/mengdii/Computational-Literacy-WCH/blob/61e5724f2fb8999eca28199bbdcb77a61400f81a/demanding_context.png)
 
@@ -141,13 +141,15 @@ The spike in “women” during 1960s - 1980s is a probable reflection of the se
 
 An increase of frequency can also be observed for “miners” around 1900s - 1920s. After a search for events containing “miners” during this time frame, among the 16 results, 8 took place in the United States, and all of them were related to strikes. This is largely in line with the American history during this time, “nowhere was the economic and social change which produced American radicalism in the late nineteenth century so rapid and so unsettling as in the mining West” (Dubofsky, 1966).
 
-The “women” line also sees a spike during the early 20th century. No statistical correlations between “miners” and “women” should be assumed here only based on the graph, but I wanted to see if there are potential connections. I searched for events during this time frame that contain “women” and “miners”, and found that while miners’ wives and children were victims, they also supported and helped the striking miners, E.g. “…striking Indian mine workers in South Africa demonstrated against a new tax on former indentured laborers. Around two thousand miners marched, as did some women and children…”, and “…The Rockefellers evicted the striking miners and their families from their homes, so they set up collective “tent cities” which miners’ wives helped run. Company thugs harassed strikers and occasionally drove by camps riddling them with machine-gun fire, killing and injuring workers and their children…”
+The “women” line also sees a spike during the early 20th century. No statistical correlations between “miners” and “women” should be assumed here only based on the graph, but I wanted to see if there are potential connections. I searched for events during this time frame that contain “women” and “miners”, and found that while miners’ wives and children were victims, they also supported and helped the striking miners, E.g. _“…striking Indian mine workers in South Africa demonstrated against a new tax on former indentured laborers. Around two thousand miners marched, as did some women and children…”_, and _“…The Rockefellers evicted the striking miners and their families from their homes, so they set up collective “tent cities” which miners’ wives helped run. Company thugs harassed strikers and occasionally drove by camps riddling them with machine-gun fire, killing and injuring workers and their children…”_
 
 Further looking into events related to women in the early 20th century, we can see ordinary people like housewives going out on demonstrations, and the courageous sacrifice of women who are hidden from the mainstream history:
 
-January 25, 1911: Kanno Sugako, a Japanese anarchist feminist, was executed for her part in a plot to assassinate the emperor. She remains the only woman to be executed in Japan for treason. Radicalized at the age of fourteen, after being raped, in addition to being a pioneering feminist, she was one of Japan’s first female journalists and a prolific writer of fiction and nonfiction…
+_January 10, 1918: Two hundred housewives marched through working class districts of Barcelona calling textile workers, most of whom were women, out on strike against the high cost of living. Strikes, demonstrations, and attacks on shops and coal yards continued even after a new military governor declared a state of siege and suspended civil rights._
 
-In her prison diary she wrote: “Needless to say, I was prepared for the death sentence. My only concern day and night was to see as many of my . . . fellow defendants saved as possible. . . . I am convinced our sacrifice is not in vain. It will bear fruit in the future. I am confident that because I firmly believe my death will serve a valuable purpose I will be able to maintain my self-respect until the last moment on the scaffold. I will be enveloped in the marvelously comforting thought that I am sacrificing myself for the cause. I believe I will be able to die a noble death without fear or anguish.”
+_January 25, 1911: Kanno Sugako, a Japanese anarchist feminist, was executed for her part in a plot to assassinate the emperor. She remains the only woman to be executed in Japan for treason. Radicalized at the age of fourteen, after being raped, in addition to being a pioneering feminist, she was one of Japan’s first female journalists and a prolific writer of fiction and nonfiction…_
+
+_In her prison diary she wrote: “Needless to say, I was prepared for the death sentence. My only concern day and night was to see as many of my . . . fellow defendants saved as possible. . . . I am convinced our sacrifice is not in vain. It will bear fruit in the future. I am confident that because I firmly believe my death will serve a valuable purpose I will be able to maintain my self-respect until the last moment on the scaffold. I will be enveloped in the marvelously comforting thought that I am sacrificing myself for the cause. I believe I will be able to die a noble death without fear or anguish.”_
 
 ## Biases and Problems
 
@@ -182,4 +184,30 @@ Nan Jiang. (2024). An analysis of Finnish milk propaganda - DOI: 10.5281/zenodo.
 Dubofsky, M. (1966). The origins of western working class radicalism, 1890–1905. Labor History, 7(2), 131-154.
 
 
+## Appendix
 
+Topics for specific periods
+
+1900-1930
+
+1. strike, union, police, women, world, miners, industrial, pay, iww, support, strikers, attempted, labor, movement, arrested, killed, first, murdered, timber, organizer, japanese, meeting, increase, anarchist, funeral, action, war, south, african, tried
+2. strike, police, women, union, strikers, class, world, army, city, anarchist, killed, pay, government, troops, repression, ramon, join, massacre, employers, black, twenty, war, revolution, shanghai, broke, known, end, lawrence, attacked, decided
+3. strike, women, police, union, iww, strikers, world, killed, pay, miners, arrested, government, members, white, children, troops, military, joined, city, striking, industrial, massacre, state, local, armed, conditions, war, army, better, declared
+4. women, mexican, strike, fire, world, death, arrested, union, revolutionary, prison, organized, war, soldiers, massacre, white, troops, anarchist, black, police, miners, strikers, revolution, party, sugako, turned, citizens, spread, eventually, outside, killed
+5. strike, union, women, police, pay, iww, government, world, killing, anarchist, fire, miners, strikers, city, protest, industrial, first, increase, arrested, revolution, killed, york, british, fascists, irish, national, organized, mexican, opened
+
+1930-1960
+
+1. strike, british, police, nazi, resistance, nazis, jewish, women, war, government, arrested, killed, authorities, group, camp, union, protest, troops, fascists, attacked, demonstration, concentration, members, mass, city, first, fire, colonial, class
+2. strike, police, women, government, troops, british, rights, black, movement, group, declared, civil, arrested, authorities, white, case, war, refused, support, union, colonial, labor, protest, segregation, resistance, local, sit-in, spanish, killed, german
+3. strike, women, union, british, police, war, french, pay, government, killing, demanding, company, authorities, increase, refused, spain, support, world, strikers, group, black, paid, injuring, arrested, resistance, fought, labor, members, colonial, mass
+4. strike, police, british, women, black, government, city, arrested, killed, south, troops, white, american, attacked, french, authorities, colonial, pay, company, uprising, mau mau, african, north, group, country, soreadm
+5. women, police, union, strike, british, arrested, black, concentration, city, authorities, nazi, sent, troops, resistance, nazis, singh, government, executed, war, camps, attack, german, forces, injured, members, first, prison, class, civil, camp
+
+1960-1980
+
+1. police, black, white, students, strike, rights, american, protest, members, young, african, group, troops, city, killed, party, fbi, university, asian, panther, york, south, state, local, military, government, civil, national, demonstration, panthers
+2. police, government, women, students, strike, black, movement, union, liberation, british, killed, military, south, rights, white, war, local, troops, forces, night, protest, mass, country, first, soldiers, dictatorship, gay, party, attacked, security
+3. strike, police, black, students, government, women, military, white, union, arrested, land, first, rights, class, pay, eventually, war, civil, refused, united, return, national, movement, shot, city, plant, dictatorship, local, dispute, fbi
+4. police, british, black, strike, students, union, government, women, killed, class, white, officers, national, london, pay, crowd, attacked, group, prison, protest, meeting, war, movement, killing, authorities, time, control, mosley, activists, university
+5. police, war, black, government, british, party, white, vietnam, civil, minister, african, american, independence, national, prime, island, strike, movement, class, native, troops, killed, shot, eventually, tsafendas, attack, put, protest, communist, panther
